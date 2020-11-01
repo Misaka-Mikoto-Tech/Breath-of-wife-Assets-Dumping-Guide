@@ -19,7 +19,7 @@ its a main thread function, we should call loadAsset in main thread
 ## 0x3
 * foreach loaded assets, add a "archive:/" to it. then call `unityplayer.dll!File::Open` then `unityplayer.dll!File::Read` then `unityplayer.dll!File::Close`
 
-## python with function and structure offset here:
+## python script with function and structure offset here:
 https://gist.github.com/MoePus/fb6e27e7c58be9fba2d35202921486d8
 
 ### CC-BY-NC-SA
